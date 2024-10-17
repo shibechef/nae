@@ -548,3 +548,6 @@
                   max: 2
     - type: StaticPrice
       price: 250
+    - type: Tag
+      tags:
+      - SecBeltEquip

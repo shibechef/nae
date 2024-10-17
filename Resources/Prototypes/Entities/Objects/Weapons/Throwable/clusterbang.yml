@@ -48,6 +48,9 @@
   - type: ContainerContainer
     containers:
       cluster-payload: !type:Container
+  - type: Tag
+    tags:
+    - SecBeltEquip
 
 - type: entity
   parent: [GrenadeBase, BaseSyndicateContraband]

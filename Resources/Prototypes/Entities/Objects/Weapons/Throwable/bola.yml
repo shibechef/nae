@@ -48,3 +48,6 @@
     canThrowTrigger: true
     canMoveBreakout: true
   - type: LandAtCursor
+  - type: Tag
+    tags:
+    - SecBeltEquip
